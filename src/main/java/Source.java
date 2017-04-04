@@ -7,10 +7,8 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.functions.Function;
 
 import java.util.*;
+// https://www.infoq.com/articles/rxjava2-by-example
 
-/**
- * Created by UberV on 4/4/2017.
- */
 public class Source {
 
     public static final boolean SHOW_ASYNC_DEMO = false;
